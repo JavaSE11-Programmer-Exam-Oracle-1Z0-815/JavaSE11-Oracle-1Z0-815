@@ -42,7 +42,7 @@
       <recent name="D:\OneDrive\Dokumenty\KURSY\UDEMY\JavaSE11-Oracle-1Z0-815-UDEMY" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.TryCatchExamples">
     <configuration name="ThrowableExamples" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ThrowableExamples" />
       <module name="Exceptions" />
@@ -50,8 +50,16 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="TryCatchExamples" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TryCatchExamples" />
+      <module name="Exceptions" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.TryCatchExamples" />
         <item itemvalue="Application.ThrowableExamples" />
       </list>
     </recent_temporary>
@@ -86,22 +94,22 @@
       <screen x="66" y="0" width="1854" height="1200" />
     </state>
     <state x="1237" y="356" key="FileChooserDialogImpl/66.0.1854.1200@66.0.1854.1200" timestamp="1579532137640" />
-    <state width="864" height="287" key="GridCell.Tab.0.bottom" timestamp="1579536116440">
+    <state width="777" height="287" key="GridCell.Tab.0.bottom" timestamp="1579536775066">
       <screen x="66" y="0" width="1854" height="1200" />
     </state>
-    <state width="864" height="287" key="GridCell.Tab.0.bottom/66.0.1854.1200@66.0.1854.1200" timestamp="1579536116440" />
-    <state width="864" height="287" key="GridCell.Tab.0.center" timestamp="1579536116440">
+    <state width="777" height="287" key="GridCell.Tab.0.bottom/66.0.1854.1200@66.0.1854.1200" timestamp="1579536775066" />
+    <state width="777" height="287" key="GridCell.Tab.0.center" timestamp="1579536775066">
       <screen x="66" y="0" width="1854" height="1200" />
     </state>
-    <state width="864" height="287" key="GridCell.Tab.0.center/66.0.1854.1200@66.0.1854.1200" timestamp="1579536116440" />
-    <state width="864" height="287" key="GridCell.Tab.0.left" timestamp="1579536116440">
+    <state width="777" height="287" key="GridCell.Tab.0.center/66.0.1854.1200@66.0.1854.1200" timestamp="1579536775066" />
+    <state width="777" height="287" key="GridCell.Tab.0.left" timestamp="1579536775066">
       <screen x="66" y="0" width="1854" height="1200" />
     </state>
-    <state width="864" height="287" key="GridCell.Tab.0.left/66.0.1854.1200@66.0.1854.1200" timestamp="1579536116440" />
-    <state width="864" height="287" key="GridCell.Tab.0.right" timestamp="1579536116440">
+    <state width="777" height="287" key="GridCell.Tab.0.left/66.0.1854.1200@66.0.1854.1200" timestamp="1579536775066" />
+    <state width="777" height="287" key="GridCell.Tab.0.right" timestamp="1579536775066">
       <screen x="66" y="0" width="1854" height="1200" />
     </state>
-    <state width="864" height="287" key="GridCell.Tab.0.right/66.0.1854.1200@66.0.1854.1200" timestamp="1579536116440" />
+    <state width="777" height="287" key="GridCell.Tab.0.right/66.0.1854.1200@66.0.1854.1200" timestamp="1579536775066" />
     <state x="561" y="189" key="SettingsEditor" timestamp="1579531784483">
       <screen x="66" y="0" width="1854" height="1200" />
     </state>
