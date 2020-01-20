@@ -1,0 +1,2 @@
+public class TryCatchExamples {
+}
