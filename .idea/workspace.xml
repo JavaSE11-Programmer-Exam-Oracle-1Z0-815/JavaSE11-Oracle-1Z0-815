@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="adf98069-d3e4-44bb-8b1c-f6e429c796a7" name="Default Changelist" comment="" />
+    <list default="true" id="adf98069-d3e4-44bb-8b1c-f6e429c796a7" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exceptions/src/TryCatchExamples.java" beforeDir="false" afterPath="$PROJECT_DIR$/Exceptions/src/TryCatchExamples.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -18,7 +21,9 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1WfDMmDNBHDjeHJG9pdx7AEmRGJ" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="flattenPackages" value="true" />
     <option name="foldersAlwaysOnTop" value="false" />
@@ -27,9 +32,29 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\OneDrive\Dokumenty\KURSY\UDEMY\JavaSE11-Oracle-1Z0-815-UDEMY" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="ThrowableExamples" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ThrowableExamples" />
+      <module name="Exceptions" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ThrowableExamples" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="ServiceViewManager">
     <option name="viewStates">
@@ -57,6 +82,26 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
+    <state x="1237" y="356" key="FileChooserDialogImpl" timestamp="1579532137640">
+      <screen x="66" y="0" width="1854" height="1200" />
+    </state>
+    <state x="1237" y="356" key="FileChooserDialogImpl/66.0.1854.1200@66.0.1854.1200" timestamp="1579532137640" />
+    <state width="864" height="287" key="GridCell.Tab.0.bottom" timestamp="1579536116440">
+      <screen x="66" y="0" width="1854" height="1200" />
+    </state>
+    <state width="864" height="287" key="GridCell.Tab.0.bottom/66.0.1854.1200@66.0.1854.1200" timestamp="1579536116440" />
+    <state width="864" height="287" key="GridCell.Tab.0.center" timestamp="1579536116440">
+      <screen x="66" y="0" width="1854" height="1200" />
+    </state>
+    <state width="864" height="287" key="GridCell.Tab.0.center/66.0.1854.1200@66.0.1854.1200" timestamp="1579536116440" />
+    <state width="864" height="287" key="GridCell.Tab.0.left" timestamp="1579536116440">
+      <screen x="66" y="0" width="1854" height="1200" />
+    </state>
+    <state width="864" height="287" key="GridCell.Tab.0.left/66.0.1854.1200@66.0.1854.1200" timestamp="1579536116440" />
+    <state width="864" height="287" key="GridCell.Tab.0.right" timestamp="1579536116440">
+      <screen x="66" y="0" width="1854" height="1200" />
+    </state>
+    <state width="864" height="287" key="GridCell.Tab.0.right/66.0.1854.1200@66.0.1854.1200" timestamp="1579536116440" />
     <state x="561" y="189" key="SettingsEditor" timestamp="1579531784483">
       <screen x="66" y="0" width="1854" height="1200" />
     </state>
