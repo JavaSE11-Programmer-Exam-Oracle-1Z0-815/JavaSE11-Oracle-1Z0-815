@@ -11,7 +11,6 @@ public class ThrowsClauseExample {
         ACustomCheckedException(String message) {
             super(message);
         }
-
     }
 
     // Custom Throwable
@@ -19,7 +18,6 @@ public class ThrowsClauseExample {
         ACustomThrowable(String message) {
             super(message);
         }
-
     }
 
     // Custom Error
@@ -27,11 +25,9 @@ public class ThrowsClauseExample {
         AnError(String message) {
             super(message);
         }
-
     }
 
     public static void main(String[] args) {
-
 
         ThrowsClauseExample t = new ThrowsClauseExample();
 
@@ -58,7 +54,6 @@ public class ThrowsClauseExample {
 
                 System.out.println("In the catch clause of main(): " +
                         e);
-
             }
         }
     }
@@ -75,22 +70,17 @@ public class ThrowsClauseExample {
         } catch (Exception e) {
             System.out.println("In the catch clause of methodTwo(): " +
                     e);
-
         }
-
     }
 
     // Checked - must satisfy catch or specify - here we specify
     // in the throws clause
     private void methodThree() throws ACustomThrowable {
         throw new ACustomThrowable("Error in methodThree");
-
     }
 
     // Unchecked Error thrown
     private void methodFour() {
         throw new AnError("Error in methodFour");
-
     }
-
 }

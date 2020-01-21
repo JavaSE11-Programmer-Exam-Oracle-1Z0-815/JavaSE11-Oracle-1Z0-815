@@ -45,7 +45,7 @@
       <recent name="D:\OneDrive\Dokumenty\KURSY\UDEMY\JavaSE11-Oracle-1Z0-815-UDEMY" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.FinallyExample">
+  <component name="RunManager" selected="Application.ThrowsClauseExample">
     <configuration name="FinallyExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="FinallyExample" />
       <module name="Exceptions" />
@@ -60,6 +60,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="ThrowsClauseExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ThrowsClauseExample" />
+      <module name="Exceptions" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="TryCatchExamples" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="TryCatchExamples" />
       <module name="Exceptions" />
@@ -69,6 +76,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ThrowsClauseExample" />
         <item itemvalue="Application.FinallyExample" />
         <item itemvalue="Application.TryCatchExamples" />
         <item itemvalue="Application.ThrowableExamples" />
@@ -101,6 +109,10 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
+    <state x="885" y="333" key="#Notifications" timestamp="1579595043873">
+      <screen x="66" y="0" width="1854" height="1200" />
+    </state>
+    <state x="885" y="333" key="#Notifications/66.0.1854.1200@66.0.1854.1200" timestamp="1579595043873" />
     <state x="1237" y="356" key="FileChooserDialogImpl" timestamp="1579532137640">
       <screen x="66" y="0" width="1854" height="1200" />
     </state>
