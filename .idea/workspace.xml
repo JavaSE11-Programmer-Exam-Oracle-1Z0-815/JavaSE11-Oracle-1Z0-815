@@ -32,9 +32,10 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
-    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -45,7 +46,14 @@
       <recent name="D:\OneDrive\Dokumenty\KURSY\UDEMY\JavaSE11-Oracle-1Z0-815-UDEMY" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.CatchExamples">
+  <component name="RunManager" selected="Application.AFinalTry">
+    <configuration name="AFinalTry" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AFinalTry" />
+      <module name="Exceptions" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="CatchExamples" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="CatchExamples" />
       <module name="Exceptions" />
@@ -55,13 +63,6 @@
     </configuration>
     <configuration name="FinallyExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="FinallyExample" />
-      <module name="Exceptions" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ThrowableExamples" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ThrowableExamples" />
       <module name="Exceptions" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -83,11 +84,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.AFinalTry" />
         <item itemvalue="Application.CatchExamples" />
         <item itemvalue="Application.ThrowsClauseExample" />
         <item itemvalue="Application.FinallyExample" />
         <item itemvalue="Application.TryCatchExamples" />
-        <item itemvalue="Application.ThrowableExamples" />
       </list>
     </recent_temporary>
   </component>
@@ -125,29 +126,33 @@
       <screen x="66" y="0" width="1854" height="1200" />
     </state>
     <state x="1237" y="356" key="FileChooserDialogImpl/66.0.1854.1200@66.0.1854.1200" timestamp="1579532137640" />
-    <state width="769" height="320" key="GridCell.Tab.0.bottom" timestamp="1579607489267">
+    <state width="769" height="320" key="GridCell.Tab.0.bottom" timestamp="1579607639839">
       <screen x="66" y="0" width="1854" height="1200" />
     </state>
-    <state width="769" height="320" key="GridCell.Tab.0.bottom/66.0.1854.1200@66.0.1854.1200" timestamp="1579607489267" />
-    <state width="769" height="320" key="GridCell.Tab.0.center" timestamp="1579607489267">
+    <state width="769" height="320" key="GridCell.Tab.0.bottom/66.0.1854.1200@66.0.1854.1200" timestamp="1579607639839" />
+    <state width="769" height="320" key="GridCell.Tab.0.center" timestamp="1579607639839">
       <screen x="66" y="0" width="1854" height="1200" />
     </state>
-    <state width="769" height="320" key="GridCell.Tab.0.center/66.0.1854.1200@66.0.1854.1200" timestamp="1579607489267" />
-    <state width="769" height="320" key="GridCell.Tab.0.left" timestamp="1579607489267">
+    <state width="769" height="320" key="GridCell.Tab.0.center/66.0.1854.1200@66.0.1854.1200" timestamp="1579607639839" />
+    <state width="769" height="320" key="GridCell.Tab.0.left" timestamp="1579607639839">
       <screen x="66" y="0" width="1854" height="1200" />
     </state>
-    <state width="769" height="320" key="GridCell.Tab.0.left/66.0.1854.1200@66.0.1854.1200" timestamp="1579607489267" />
-    <state width="769" height="320" key="GridCell.Tab.0.right" timestamp="1579607489267">
+    <state width="769" height="320" key="GridCell.Tab.0.left/66.0.1854.1200@66.0.1854.1200" timestamp="1579607639839" />
+    <state width="769" height="320" key="GridCell.Tab.0.right" timestamp="1579607639839">
       <screen x="66" y="0" width="1854" height="1200" />
     </state>
-    <state width="769" height="320" key="GridCell.Tab.0.right/66.0.1854.1200@66.0.1854.1200" timestamp="1579607489267" />
-    <state x="561" y="189" key="SettingsEditor" timestamp="1579531784483">
+    <state width="769" height="320" key="GridCell.Tab.0.right/66.0.1854.1200@66.0.1854.1200" timestamp="1579607639839" />
+    <state x="561" y="189" key="SettingsEditor" timestamp="1579607956599">
       <screen x="66" y="0" width="1854" height="1200" />
     </state>
-    <state x="561" y="189" key="SettingsEditor/66.0.1854.1200@66.0.1854.1200" timestamp="1579531784483" />
+    <state x="561" y="189" key="SettingsEditor/66.0.1854.1200@66.0.1854.1200" timestamp="1579607956599" />
     <state x="464" y="235" key="new project wizard" timestamp="1579531781383">
       <screen x="66" y="0" width="1854" height="1200" />
     </state>
     <state x="464" y="235" key="new project wizard/66.0.1854.1200@66.0.1854.1200" timestamp="1579531781383" />
+    <state x="1170" y="271" width="672" height="678" key="search.everywhere.popup" timestamp="1579608727021">
+      <screen x="66" y="0" width="1854" height="1200" />
+    </state>
+    <state x="1170" y="271" width="672" height="678" key="search.everywhere.popup/66.0.1854.1200@66.0.1854.1200" timestamp="1579608727021" />
   </component>
 </project>
